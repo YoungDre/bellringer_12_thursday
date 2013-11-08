@@ -1,9 +1,9 @@
-puts"Enter 2 Numbers "
-def method_name("5" "2")
-   gets.chomp
-   dre = 5 + 2
-   deandre = 5 - 2 
-   de = 5 * 2 
+puts"Enter 2 Numbers" 
+class dre
+def method_name("x" "y")
+   x = ""
+   y = ""
 
-   puts "#{dre} = dre"
+puts  #{x + y}" 
 end
+
